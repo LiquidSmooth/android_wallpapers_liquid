@@ -14,7 +14,7 @@
         name="<wallpaper name">
     -->
 
-    <category name="Liquid Branded Papers" >
+    <category name="Branded Papers" >
 
         <wallpaper
             author="Annex1"
@@ -41,7 +41,7 @@
             name="Liquid4" />
     </category>
 
-    <category name="More Liquid Papers" >
+    <category name="More Papers" >
 
         <wallpaper
             author="Droyd"
@@ -53,19 +53,19 @@
             author="Droyd"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
             url="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
-            name="Wave1" />
+            name="Wave2" />
 
         <wallpaper
             author="Droyd"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
             url="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
-            name="Wave1" />
+            name="Wave3" />
 
         <wallpaper
             author="Droyd"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
             url="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
-            name="Wave1" />
+            name="Wave4" />
     </category>
 
 </wallpapers>
