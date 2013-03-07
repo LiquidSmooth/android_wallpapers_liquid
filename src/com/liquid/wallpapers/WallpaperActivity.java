@@ -1,4 +1,3 @@
-
 package com.liquid.wallpapers;
 
 import android.app.ActionBar;
@@ -59,7 +58,7 @@ public class WallpaperActivity extends Activity {
         mLoadingDialog = new ProgressDialog(this);
         mLoadingDialog.setCancelable(false);
         mLoadingDialog.setIndeterminate(true);
-        mLoadingDialog.setMessage("Retreiving wallpapers from server...");
+        mLoadingDialog.setMessage("Retrieving wallpapers from server...");
 
         mLoadingDialog.show();
         new LoadWallpaperManifest().execute();
