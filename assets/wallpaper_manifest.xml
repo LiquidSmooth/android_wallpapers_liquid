@@ -14,46 +14,58 @@
         name="<wallpaper name">
     -->
 
-    <category name="LiquidSmooth" >
+    <category name="Liquid Branded Papers" >
 
         <wallpaper
             author="Annex1"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png" />
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
+            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
+            name="Liquid1" />
 
         <wallpaper
             author="Annex1"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png" />
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
+            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
+            name="Liquid2" />
 
         <wallpaper
             author="Annex1"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png" />
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
+            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
+            name="Liquid3" />
 
         <wallpaper
             author="Annex1"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png" />
-
-        <wallpaper
-            author="$Droyd$"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png" />
-
-        <wallpaper
-            author="$Droyd$"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png" />
-
-        <wallpaper
-            author="$Droyd$"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png" />
-
-        <wallpaper
-            author="$Droyd$"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png" />
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
+            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
+            name="Liquid4" />
     </category>
 
-    <category name="Older Wallpapers" >
+    <category name="More Liquid Papers" >
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
+            author="Droyd"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
+            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
+            name="Wave1" />
+
+        <wallpaper
+            author="Droyd"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
+            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
+            name="Wave1" />
+
+        <wallpaper
+            author="Droyd"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
+            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
+            name="Wave1" />
+
+        <wallpaper
+            author="Droyd"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
+            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
+            name="Wave1" />
     </category>
 
 </wallpapers>
