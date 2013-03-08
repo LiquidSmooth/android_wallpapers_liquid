@@ -36,6 +36,18 @@
 
         <wallpaper
             author="Annex1"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-Flow.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Wally-Flow.jpg"
+            name="Flow" />
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.jpg"
+            name="Green Liquid" />
+
+        <wallpaper
+            author="Wally"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
             url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
             name="Liquid4" />
