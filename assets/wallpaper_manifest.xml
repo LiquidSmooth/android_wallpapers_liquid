@@ -42,15 +42,39 @@
 
         <wallpaper
             author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-Flow.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Wally-Flow.jpg"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-Flow.png"
+            url="http://android.markjohnston.us/DL/LWP/Wally-Flow.png"
             name="Flow" />
 
         <wallpaper
             author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.jpg"
-            name="Green Liquid" />
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.png"
+            url="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.png"
+            name="GreenLiquid" />
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-BlueLiquid.png"
+            url="http://android.markjohnston.us/DL/LWP/Wally-BlueLiquid.png"
+            name="BlueLiquid" />
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-CandyGray.png"
+            url="http://android.markjohnston.us/DL/LWP/Wally-CandyGray.png"
+            name="CandyGray" />
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-CandyWhite.png"
+            url="http://android.markjohnston.us/DL/LWP/Wally-CandyWhite.png"
+            name="CandyWhite" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
+            name="LiquidDNA" />
     </category>
 
     <category name="More Papers" >
