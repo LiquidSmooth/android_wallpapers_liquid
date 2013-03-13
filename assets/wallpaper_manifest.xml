@@ -81,6 +81,12 @@
             thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
             url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
             name="LiquidLights" />
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
+            url="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
+            name="LiquidGlass" />
     </category>
 
     <category name="More Papers" >
