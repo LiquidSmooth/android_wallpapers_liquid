@@ -75,6 +75,12 @@
             thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
             url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
             name="LiquidDNA" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
+            name="LiquidLights" />
     </category>
 
     <category name="More Papers" >
