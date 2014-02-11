@@ -14,7 +14,7 @@
         name="<wallpaper name">
     -->
 
-    <category name="Branded Papers" >
+    <category name="Annex1" >
 
         <wallpaper
             author="Annex1"
@@ -39,7 +39,22 @@
             thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
             url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
             name="Liquid4" />
+			
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
+            name="LiquidDNA" />
 
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
+            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
+            name="LiquidLights" />
+	</category>
+
+	<category name="Wally" >
+	
         <wallpaper
             author="Wally"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-Flow.png"
@@ -71,49 +86,241 @@
             name="CandyWhite" />
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            name="LiquidDNA" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            name="LiquidLights" />
-
-        <wallpaper
             author="Wally"
             thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
             url="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
             name="LiquidGlass" />
     </category>
-
-    <category name="More Papers" >
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
-            name="Wave1" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
-            name="Wave2" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
-            name="Wave3" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
-            name="Wave4" />
-    </category>
+	
+	<category name="Aries" >
+	
+	    <wallpaper
+            author="Aries"
+            thumbUrl="https://lh3.googleusercontent.com/-tkIDwC6vpKI/UvmLiby5mgI/AAAAAAAAKjw/qvpuzDc7tEQ/w903-h792-no/droptest.jpg"
+            url="https://lh3.googleusercontent.com/-tkIDwC6vpKI/UvmLiby5mgI/AAAAAAAAKjw/qvpuzDc7tEQ/w903-h792-no/droptest.jpg"
+            name="Upside Down" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-G1RjoKqlcb4/UvmLWhGJ9eI/AAAAAAAAKhA/_KQG3ktTxC4/w903-h792-no/LIquid3.0wall2.jpg"
+            url="https://lh4.googleusercontent.com/-G1RjoKqlcb4/UvmLWhGJ9eI/AAAAAAAAKhA/_KQG3ktTxC4/w903-h792-no/LIquid3.0wall2.jpg"
+            name="Dark Water" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh3.googleusercontent.com/-2OL9DEjdg2k/UvmLWoB8NXI/AAAAAAAAKhE/0HrhVoE8omo/w903-h792-no/LIquid3.0wall3.jpg"
+            url="https://lh3.googleusercontent.com/-2OL9DEjdg2k/UvmLWoB8NXI/AAAAAAAAKhE/0HrhVoE8omo/w903-h792-no/LIquid3.0wall3.jpg"
+            name="Light Water" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh6.googleusercontent.com/-QFTZsOu5Nz0/UvmLWqSr69I/AAAAAAAAKhM/Im9Wr_Yoc3k/w903-h792-no/LIquid3.0wall.jpg"
+            url="https://lh6.googleusercontent.com/-QFTZsOu5Nz0/UvmLWqSr69I/AAAAAAAAKhM/Im9Wr_Yoc3k/w903-h792-no/LIquid3.0wall.jpg"
+            name="Carbon Water" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-v49NiZlrfMQ/UvmLdJyAb2I/AAAAAAAAKiw/BD9YBlK4iSg/w903-h792-no/LiquidDroid1.jpg"
+            url="https://lh5.googleusercontent.com/-v49NiZlrfMQ/UvmLdJyAb2I/AAAAAAAAKiw/BD9YBlK4iSg/w903-h792-no/LiquidDroid1.jpg"
+            name="Black Headed Droid 1" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-Etfb6vp6yrE/UvmLc2vZvUI/AAAAAAAAKik/B_8IDyJdfW8/w903-h792-no/LiquidDroid2.jpg"
+            url="https://lh5.googleusercontent.com/-Etfb6vp6yrE/UvmLc2vZvUI/AAAAAAAAKik/B_8IDyJdfW8/w903-h792-no/LiquidDroid2.jpg"
+            name="Black Headed Droid 2" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-AlCzNxxR7Io/UvmLdh694nI/AAAAAAAAKi0/tdggLBn6_8o/w903-h792-no/LiquidDroid3.jpg"
+            url="https://lh4.googleusercontent.com/-AlCzNxxR7Io/UvmLdh694nI/AAAAAAAAKi0/tdggLBn6_8o/w903-h792-no/LiquidDroid3.jpg"
+            name="Black Headed Droid 3" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-kd4QYkVBE58/UvmLeFyMDoI/AAAAAAAAKjE/rcyQlaDJCSQ/w903-h792-no/LiquidDroid4.jpg"
+            url="https://lh5.googleusercontent.com/-kd4QYkVBE58/UvmLeFyMDoI/AAAAAAAAKjE/rcyQlaDJCSQ/w903-h792-no/LiquidDroid4.jpg"
+            name="Black Headed Droid" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-WBR5ru2auso/UvmLe7PdFRI/AAAAAAAAKjQ/8Ig2mHb8gt4/w903-h792-no/LiquidDroid5.jpg"
+            url="https://lh5.googleusercontent.com/-WBR5ru2auso/UvmLe7PdFRI/AAAAAAAAKjQ/8Ig2mHb8gt4/w903-h792-no/LiquidDroid5.jpg"
+            name="Blue Head Droid 1" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-fpae9iknlfY/UvmLe5fJHnI/AAAAAAAAKjM/nAV4XK-Qc5E/w508-h445-no/LiquidDroid6.jpg"
+            url="https://lh5.googleusercontent.com/-fpae9iknlfY/UvmLe5fJHnI/AAAAAAAAKjM/nAV4XK-Qc5E/w508-h445-no/LiquidDroid6.jpg"
+            name="Blue Head Droid 2" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-qjl-XmJwwRw/UvmLgs0lawI/AAAAAAAAKjc/uuBISL6qn4Q/w903-h792-no/LiquidDroid7.jpg"
+            url="https://lh4.googleusercontent.com/-qjl-XmJwwRw/UvmLgs0lawI/AAAAAAAAKjc/uuBISL6qn4Q/w903-h792-no/LiquidDroid7.jpg"
+            name="Blue Headed Droid 3" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh3.googleusercontent.com/-gRmvPcKH12A/UvmLjt9YFVI/AAAAAAAAKj4/igqO90VePuI/w903-h792-no/LiquidDroid8.jpg"
+            url="https://lh3.googleusercontent.com/-gRmvPcKH12A/UvmLjt9YFVI/AAAAAAAAKj4/igqO90VePuI/w903-h792-no/LiquidDroid8.jpg"
+            name="Blue Headed Droid 4" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-iHP6W4RuwcY/UvmLYvd8WII/AAAAAAAAKhs/N1xCD49LCH8/w903-h792-no/LIquidSettingsbackground1.jpg"
+            url="https://lh5.googleusercontent.com/-iHP6W4RuwcY/UvmLYvd8WII/AAAAAAAAKhs/N1xCD49LCH8/w903-h792-no/LIquidSettingsbackground1.jpg"
+            name="Liquid Splash 1" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-OqghooS55_I/UvmLX6cEmuI/AAAAAAAAKhY/4GmhYCJBykc/w903-h792-no/LIquidSettingsbackground2.jpg"
+            url="https://lh4.googleusercontent.com/-OqghooS55_I/UvmLX6cEmuI/AAAAAAAAKhY/4GmhYCJBykc/w903-h792-no/LIquidSettingsbackground2.jpg"
+            name="Liquid Splash 2" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh6.googleusercontent.com/-rSyC-hoSY-8/UvmLXgSj9BI/AAAAAAAAKhU/EYpyVVrP0ec/w903-h792-no/LIquidSettingsbackground3.jpg"
+            url="https://lh6.googleusercontent.com/-rSyC-hoSY-8/UvmLXgSj9BI/AAAAAAAAKhU/EYpyVVrP0ec/w903-h792-no/LIquidSettingsbackground3.jpg"
+            name="Liquid Splash 3" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh6.googleusercontent.com/-d6aXVQMCzrI/UvmLZEUX1vI/AAAAAAAAKh0/lpvV05t5_ew/w903-h792-no/LIquidSettingsbackground4.jpg"
+            url="https://lh6.googleusercontent.com/-d6aXVQMCzrI/UvmLZEUX1vI/AAAAAAAAKh0/lpvV05t5_ew/w903-h792-no/LIquidSettingsbackground4.jpg"
+            name="Liquid Splash 4" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-hdmvMDx8kJ4/UvmLYv2VHQI/AAAAAAAAKho/LjMEQBieAIs/w903-h792-no/LIquidspill1.jpg"
+            url="https://lh4.googleusercontent.com/-hdmvMDx8kJ4/UvmLYv2VHQI/AAAAAAAAKho/LjMEQBieAIs/w903-h792-no/LIquidspill1.jpg"
+            name="Liquid Splash 5" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-U48j1W3YSEA/UvmLZfSG5ZI/AAAAAAAAKh4/kOTNoOBFZcI/w903-h792-no/LIquidspill2.jpg"
+            url="https://lh4.googleusercontent.com/-U48j1W3YSEA/UvmLZfSG5ZI/AAAAAAAAKh4/kOTNoOBFZcI/w903-h792-no/LIquidspill2.jpg"
+            name="Liquid Splash 6" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-WQDOD-t3I3A/UvmLavnr8JI/AAAAAAAAKiE/ISti8y211BQ/w903-h792-no/LIquidwallsplash1.jpg"
+            url="https://lh4.googleusercontent.com/-WQDOD-t3I3A/UvmLavnr8JI/AAAAAAAAKiE/ISti8y211BQ/w903-h792-no/LIquidwallsplash1.jpg"
+            name="Flying Liquid 1" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh3.googleusercontent.com/-Y545EU2EhE8/UvmLa7vzQFI/AAAAAAAAKiI/BWMeU-AQkCg/w903-h792-no/LIquidwallsplash2.jpg"
+            url="https://lh3.googleusercontent.com/-Y545EU2EhE8/UvmLa7vzQFI/AAAAAAAAKiI/BWMeU-AQkCg/w903-h792-no/LIquidwallsplash2.jpg"
+            name="Flying Liquid 2" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh3.googleusercontent.com/-LySoqncRWcA/UvmLdqE6eXI/AAAAAAAAKi8/WgPkQWiAQeY/w903-h792-no/LIquidwallsplash3.jpg"
+            url="https://lh3.googleusercontent.com/-LySoqncRWcA/UvmLdqE6eXI/AAAAAAAAKi8/WgPkQWiAQeY/w903-h792-no/LIquidwallsplash3.jpg"
+            name="Flying Liquid 3" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh4.googleusercontent.com/-TE0cVj1uItI/UvmLbl_N6KI/AAAAAAAAKiU/Cj6vOsIgJ8Y/w903-h792-no/LIquidwallsplash4.jpg"
+            url="https://lh4.googleusercontent.com/-TE0cVj1uItI/UvmLbl_N6KI/AAAAAAAAKiU/Cj6vOsIgJ8Y/w903-h792-no/LIquidwallsplash4.jpg"
+            name="Flying Liquid 4" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh6.googleusercontent.com/-81cwhvO8g1o/UvmLbxvij_I/AAAAAAAAKiY/-HDcXipSK14/w903-h792-no/LIquidwallsplash5.jpg"
+            url="https://lh6.googleusercontent.com/-81cwhvO8g1o/UvmLbxvij_I/AAAAAAAAKiY/-HDcXipSK14/w903-h792-no/LIquidwallsplash5.jpg"
+            name="Flying Liquid 5" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh5.googleusercontent.com/-dAOqCXwpfyE/UvmLh6LPcLI/AAAAAAAAKjg/ILAUgLDZPSM/w903-h792-no/SimpleLiquid1.jpg"
+            url="https://lh5.googleusercontent.com/-dAOqCXwpfyE/UvmLh6LPcLI/AAAAAAAAKjg/ILAUgLDZPSM/w903-h792-no/SimpleLiquid1.jpg"
+            name="Metal logo 1" />
+			
+		<wallpaper
+            author="Aries"
+            thumbUrl="https://lh6.googleusercontent.com/-h85LdwKVb6k/UvmLiazCQ9I/AAAAAAAAKjs/CuJAhDf-gxQ/w903-h792-no/SimpleLiquid2.jpg"
+            url="https://lh6.googleusercontent.com/-h85LdwKVb6k/UvmLiazCQ9I/AAAAAAAAKjs/CuJAhDf-gxQ/w903-h792-no/SimpleLiquid2.jpg"
+            name="Metal logo 2" />
+	
+	<category name="Robert Barnett" >
+	
+	    <wallpaper
+            author="Robert"
+            thumbUrl="https://lh4.googleusercontent.com/-9RYZQf88Fn8/UvmKZe26p-I/AAAAAAAAKfc/AX7k-KbMTi8/w891-h792-no/LiquidBubble_Black.JPG"
+            url="https://lh4.googleusercontent.com/-9RYZQf88Fn8/UvmKZe26p-I/AAAAAAAAKfc/AX7k-KbMTi8/w891-h792-no/LiquidBubble_Black.JPG"
+            name="Bubbles 1" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh3.googleusercontent.com/-1o-uA7miKiM/UvmKZa1lmoI/AAAAAAAAKfs/VNKju7pe_uU/w891-h792-no/LiquidBubble_Blue.JPG"
+            url="https://lh3.googleusercontent.com/-1o-uA7miKiM/UvmKZa1lmoI/AAAAAAAAKfs/VNKju7pe_uU/w891-h792-no/LiquidBubble_Blue.JPG"
+            name="Bubbles 2" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh6.googleusercontent.com/-ktnqtHAIidg/UvmKZXmIlzI/AAAAAAAAKfo/fTCHhUob6KU/w891-h792-no/LiquidBubble_Green.JPG"
+            url="https://lh6.googleusercontent.com/-ktnqtHAIidg/UvmKZXmIlzI/AAAAAAAAKfo/fTCHhUob6KU/w891-h792-no/LiquidBubble_Green.JPG"
+            name="Bubbles 3" />
+		
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh6.googleusercontent.com/-PxdMigKuv-I/UvmKaDVfNTI/AAAAAAAAKfw/X4_HaMusnEE/w891-h792-no/LiquidBubble_Neon.JPG"
+            url="https://lh6.googleusercontent.com/-PxdMigKuv-I/UvmKaDVfNTI/AAAAAAAAKfw/X4_HaMusnEE/w891-h792-no/LiquidBubble_Neon.JPG"
+            name="Bubbles 4" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh5.googleusercontent.com/-XC14QIRbUXs/UvmKaO8Gz4I/AAAAAAAAKgA/pT_pK3XfFqg/w891-h792-no/LiquidBubble_Orange.JPG"
+            url="https://lh5.googleusercontent.com/-XC14QIRbUXs/UvmKaO8Gz4I/AAAAAAAAKgA/pT_pK3XfFqg/w891-h792-no/LiquidBubble_Orange.JPG"
+            name="Bubbles 5" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh3.googleusercontent.com/-rA77dCpkNTg/UvmKaLaAUWI/AAAAAAAAKf0/VNTeCVFTrZM/w891-h792-no/LiquidBubble_Pink.JPG"
+            url="https://lh3.googleusercontent.com/-rA77dCpkNTg/UvmKaLaAUWI/AAAAAAAAKf0/VNTeCVFTrZM/w891-h792-no/LiquidBubble_Pink.JPG"
+            name="Bubbles 6" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh5.googleusercontent.com/-GTcqaVpZkNA/UvmKbl5CLdI/AAAAAAAAKgQ/jXPB8bS1-Ow/w891-h792-no/LiquidBubble_Purple.JPG"
+            url="https://lh5.googleusercontent.com/-GTcqaVpZkNA/UvmKbl5CLdI/AAAAAAAAKgQ/jXPB8bS1-Ow/w891-h792-no/LiquidBubble_Purple.JPG"
+            name="Bubbles 7" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh3.googleusercontent.com/-2UmQaXMXlDE/UvmKbINis-I/AAAAAAAAKgI/G31YeWMxtW4/w891-h792-no/LiquidBubble_Red.JPG"
+            url="https://lh3.googleusercontent.com/-2UmQaXMXlDE/UvmKbINis-I/AAAAAAAAKgI/G31YeWMxtW4/w891-h792-no/LiquidBubble_Red.JPG"
+            name="Bubbles 8" />
+			
+		<wallpaper
+            author="Robert"
+            thumbUrl="https://lh6.googleusercontent.com/-Jgf_3lo486g/UvmKbot7kGI/AAAAAAAAKgU/RStsPPoZ__Y/w891-h792-no/LiquidBubble_Yellow.JPG"
+            url="https://lh6.googleusercontent.com/-Jgf_3lo486g/UvmKbot7kGI/AAAAAAAAKgU/RStsPPoZ__Y/w891-h792-no/LiquidBubble_Yellow.JPG"
+            name="Bubbles 9" />
+			
+	</category>
+	
+	<category name="Kevin Adams" >
+	
+	    <wallpaper
+            author="Kevin"
+            thumbUrl="https://lh4.googleusercontent.com/--brH8b1NLw0/Uvg3ucxDj7I/AAAAAAAADs4/rlzvsEe7C3A/w891-h792-no/Liquid+Smooth+2.1.png"
+            url="https://lh4.googleusercontent.com/--brH8b1NLw0/Uvg3ucxDj7I/AAAAAAAADs4/rlzvsEe7C3A/w891-h792-no/Liquid+Smooth+2.1.png"
+            name="Color 3.0" />
+			
+		<wallpaper
+            author="Kevin"
+            thumbUrl="https://lh6.googleusercontent.com/-h0Z6QE2clD4/Uvg3uaXCe0I/AAAAAAAADs0/Bt0j_LHZF-0/w891-h792-no/Liquid+Smooth+2.2.png"
+            url="https://lh6.googleusercontent.com/-h0Z6QE2clD4/Uvg3uaXCe0I/AAAAAAAADs0/Bt0j_LHZF-0/w891-h792-no/Liquid+Smooth+2.2.png"
+            name="Color 3.0 2" />
+			
+		<wallpaper
+            author="Kevin"
+            thumbUrl="https://lh3.googleusercontent.com/-ffbR0_G97qg/Uvg3uYi1HQI/AAAAAAAADs8/OA31t28wPOo/w891-h792-no/Liquid+Smooth+2.3.png"
+            url="https://lh3.googleusercontent.com/-ffbR0_G97qg/Uvg3uYi1HQI/AAAAAAAADs8/OA31t28wPOo/w891-h792-no/Liquid+Smooth+2.3.png"
+            name="Color 3.0 3" />
+	</category>
 
 </wallpapers>
