@@ -165,7 +165,7 @@ public class WallpaperActivity extends Activity {
 
             for (int i = 0; i < thumbs.length; i++) {
                 final int realIndex = (currentPage * thumbs.length + i);
-                if (realIndex >= (numWallpapersInCategory - 1)) {
+                if (realIndex >= (numWallpapersInCategory)) {
                     enableForward = false;
                     break;
                 }
